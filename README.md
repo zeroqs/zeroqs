@@ -12,7 +12,8 @@
  :writing_hand: I’m currently learning Next,Nodejs
 </div>
  <div align="right"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroqs&show_icons=true&locale=en&layout=compact" alt="zeroqs" />
+   <img src="https://github-readme-stats.vercel.app/api?username=zeroqs&show_icons=true&locale=en" alt="zeroqs" />
+
 </div>
 
  
@@ -111,7 +112,6 @@
     </td>
   </tr> 
 </table>
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=zeroqs&show_icons=true&locale=en" alt="zeroqs" />
  
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroqs&show_icons=true&locale=en&layout=compact" alt="zeroqs" />
 
