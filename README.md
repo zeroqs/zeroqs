@@ -3,7 +3,7 @@
 <h4 align="left">I'm a frontend developer from Russia 🧊</h4>
 
 
-<div>
+<div align="left">
  📫 How to reach me smthq@bk.ru
  <br>
  :writing_hand: I’m currently learning Next,Nodejs
@@ -16,7 +16,7 @@
 
 <br>
 
-<div>
+<div align="left">
  <h2 align="left" id="debabin-stack">Tech stack</h2>
 
 >  General
