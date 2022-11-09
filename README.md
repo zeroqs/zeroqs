@@ -4,7 +4,7 @@
  <h4 align="left">I'm a frontend developer from Russia 🧊</h4>
 
 
-<div width='100%'>
+
  
  📫 How to reach me smthq@bk.ru
   <br>
@@ -12,14 +12,14 @@
  
 
  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroqs&show_icons=true&locale=en&layout=compact" alt="zeroqs" /></p>
- <br>
-</div>
+
+
  
 
 
 
 <div>
- <h2 align="left">Tech stack</h2>
+ <h2 >Tech stack</h2>
 
 >  General
  
