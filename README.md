@@ -19,7 +19,7 @@
 
  <br>
  
- <h2 >Tech stack</h2>
+ <h2 align="left">Tech stack</h2>
 
 >  General
  
