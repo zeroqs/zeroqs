@@ -3,11 +3,11 @@
 <h4 align="left">I'm a frontend developer from Russia 🧊</h4>
 
 
-<div>
+
 - 📫 How to reach me smthq@bk.ru
 - :writing_hand: &nbsp; I’m currently learning Next,Nodejs
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroqs&show_icons=true&locale=en&layout=compact" alt="zeroqs" />
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroqs&show_icons=true&locale=en&layout=compact" alt="zeroqs" />
+
 
 <br>
 
