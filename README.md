@@ -6,7 +6,7 @@
 
 
  
-<div align="left">
+<div align="">
   📫 How to reach me smthq@bk.ru
   <br>
  :writing_hand: I’m currently learning Next,Nodejs
