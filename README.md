@@ -4,22 +4,15 @@
  <h4 align="left">I'm a frontend developer from Russia 🧊</h4>
 </div>
 
-
-<!-- <div align="left">
+<div align="left">
  📫 How to reach me smthq@bk.ru
- <br>
  :writing_hand: I’m currently learning Next,Nodejs
  
  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeroqs&" alt="zeroqs" /></p>
  
  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=zeroqs&show_icons=true&locale=en" alt="zeroqs" /></p>
 
-</div> -->
-<h4 align="left">I'm a Full-Stack Web Developer from Siberia 🧊</h4>
-
-<a href="#debabin-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=debabin&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="debabin" align="right" />
-</a>
+</div> 
 
 
 <br>
