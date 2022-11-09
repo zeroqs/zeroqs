@@ -15,7 +15,8 @@
 
 <br>
 
-<h2 align="left" id="debabin-stack">Tech stack</h2>
+<div>
+ <h2 align="left" id="debabin-stack">Tech stack</h2>
 
 >  General
  
@@ -103,6 +104,7 @@
     </td>
   </tr> 
 </table>
+</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zeroqs&show_icons=true&locale=en" alt="zeroqs" /></p>
 
