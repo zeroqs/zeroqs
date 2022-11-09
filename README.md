@@ -14,11 +14,11 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroqs&show_icons=true&locale=en&layout=compact" alt="zeroqs" /></p>
 
 
+
+
+
  <br/>
-
-
-
-<div>
+ 
  <h2 >Tech stack</h2>
 
 >  General
@@ -107,7 +107,6 @@
     </td>
   </tr> 
 </table>
-</div>
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zeroqs&show_icons=true&locale=en" alt="zeroqs" />
  
 
