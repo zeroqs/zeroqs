@@ -6,13 +6,13 @@
 
 
  
-<div align="">
+<div align="left">
   📫 How to reach me smthq@bk.ru
   <br>
  :writing_hand: I’m currently learning Next,Nodejs
 </div>
- <div align=""> 
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroqs&show_icons=true&locale=en&layout=compact" alt="zeroqs" />
+ <div align="right"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroqs&show_icons=true&locale=en&layout=compact" alt="zeroqs" />
 </div>
 
  
