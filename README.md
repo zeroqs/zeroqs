@@ -4,15 +4,15 @@
  <h4 align="left">I'm a frontend developer from Russia 🧊</h4>
 </div>
 
-<div align="left">
+
  📫 How to reach me smthq@bk.ru
   <br>
  :writing_hand: I’m currently learning Next,Nodejs
  
 
- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=zeroqs&show_icons=true&locale=en" alt="zeroqs" /></p>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=zeroqs&show_icons=true&locale=en" alt="zeroqs" />
  
-</div> 
+
 
 
 <br>
