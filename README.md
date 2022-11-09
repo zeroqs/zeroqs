@@ -1,8 +1,8 @@
 <h1 align="left">:wave: Hello there! I'm Nik</h1>
 
-<div>
+
  <h4 align="left">I'm a frontend developer from Russia 🧊</h4>
-</div>
+
 
 
  📫 How to reach me smthq@bk.ru
