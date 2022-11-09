@@ -5,8 +5,7 @@
 
 - 📫 How to reach me smthq@bk.ru
 - :writing_hand: &nbsp; I’m currently learning Next,Nodejs
-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroqs&show_icons=true&locale=en&layout=compact" alt="zeroqs" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroqs&show_icons=true&locale=en&layout=compact" alt="zeroqs" />
 
 <br>
 
