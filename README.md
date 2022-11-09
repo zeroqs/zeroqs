@@ -1,7 +1,7 @@
 <h1 align="left">:wave: Hello there! I'm Nik</h1>
 
 
- <p align="left">I'm a frontend developer from Russia 🧊</p>
+ <h4 align="left">I'm a frontend developer from Russia 🧊</h4>
 
 
 
@@ -14,8 +14,6 @@
  
 
 
-
-<br>
 
 <div>
  <h2 align="left">Tech stack</h2>
