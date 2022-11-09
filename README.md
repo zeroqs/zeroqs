@@ -10,6 +10,7 @@
  :writing_hand: I’m currently learning Next,Nodejs
  
 
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroqs&show_icons=true&locale=en&layout=compact" alt="zeroqs" /></p>
  
 
 
@@ -108,7 +109,6 @@
 </div>
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zeroqs&show_icons=true&locale=en" alt="zeroqs" />
  
- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeroqs&show_icons=true&locale=en&layout=compact" alt="zeroqs" /></p>
 
 
 <br>
