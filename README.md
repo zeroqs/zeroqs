@@ -1,22 +1,30 @@
 <h1 align="left">:wave: Hello there! I'm Nik</h1>
 
-<h4 align="left">I'm a frontend developer from Russia 🧊</h4>
+<div>
+ <h4 align="left">I'm a frontend developer from Russia 🧊</h4>
+</div>
 
 
-<div align="left">
+<!-- <div align="left">
  📫 How to reach me smthq@bk.ru
  <br>
  :writing_hand: I’m currently learning Next,Nodejs
  
- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zeroqs&" alt="zeroqs" /></p>
+ <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeroqs&" alt="zeroqs" /></p>
  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeroqs&show_icons=true&locale=en" alt="zeroqs" /></p>
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=zeroqs&show_icons=true&locale=en" alt="zeroqs" /></p>
 
-</div>
+</div> -->
+<h4 align="left">I'm a Full-Stack Web Developer from Siberia 🧊</h4>
+
+<a href="#debabin-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=debabin&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="debabin" align="right" />
+</a>
+
 
 <br>
 
-<div align="left">
+<div>
  <h2 align="left" id="debabin-stack">Tech stack</h2>
 
 >  General
