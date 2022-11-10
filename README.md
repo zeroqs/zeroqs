@@ -9,7 +9,7 @@
 <div align="left">
   📫 How to reach me smthq@bk.ru
   <br>
- :writing_hand: I’m currently learning Next,Nodejs
+ :writing_hand: I’m currently learning Next,Nodejs,TS
 </div>
  <br>
  <div align=""> 
