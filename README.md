@@ -12,9 +12,7 @@
  :writing_hand: I’m currently learning Next,Nodejs,TS
 </div>
  <br>
- <div align=""> 
-   <img src="https://github-readme-stats.vercel.app/api?username=zeroqs&show_icons=true&locale=en" alt="zeroqs" />
-</div>
+
 
  
 
