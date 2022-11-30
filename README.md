@@ -1,7 +1,7 @@
-<h1 align="left">:wave: Hello there! I'm Nik</h1>
 
 
- <h4 align="left">I'm a frontend developer from Russia 🧊</h4>
+
+
 
 
 
