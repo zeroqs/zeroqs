@@ -22,12 +22,9 @@ I'm a passionate developer from Russia who loves building web applications and e
 ### 📊 This Week I Spent My Time On:
 
 
-```text
-TypeScript   12 hrs 40 mins  ████████████░░░░░░░  60.45%
-React        4 hrs 30 mins   ████░░░░░░░░░░░░░░░  21.50%
-NestJS       2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░  10.75%
-Docker       1 hr 32 mins    █░░░░░░░░░░░░░░░░░░   7.30%
-```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### 📈 My GitHub Stats:
 
