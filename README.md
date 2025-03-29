@@ -24,6 +24,18 @@ I'm a passionate developer from Russia who loves building web applications and e
 
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 21 March 2025 - To: 28 March 2025
+
+Total Time: 2 hrs 3 mins
+
+TypeScript   1 hr 56 mins    ████████████████████████░   94.92 %
+Prisma       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+```
+
 <!--END_SECTION:waka-->
 
 ### 📈 My GitHub Stats:
