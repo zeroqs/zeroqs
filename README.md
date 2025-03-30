@@ -26,14 +26,15 @@ I'm a passionate developer from Russia who loves building web applications and e
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2025 - To: 28 March 2025
+From: 22 March 2025 - To: 29 March 2025
 
-Total Time: 2 hrs 3 mins
+Total Time: 5 hrs 1 min
 
-TypeScript   1 hr 56 mins    ████████████████████████░   94.92 %
-Prisma       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   4 hrs 50 mins   ████████████████████████░   96.09 %
+Prisma       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
