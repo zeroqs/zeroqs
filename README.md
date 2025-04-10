@@ -26,16 +26,20 @@ I'm a passionate developer from Russia who loves building web applications and e
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2025 - To: 08 April 2025
+From: 02 April 2025 - To: 09 April 2025
 
-Total Time: 9 hrs 44 mins
+Total Time: 7 hrs 2 mins
 
-TypeScript    9 hrs 34 mins   █████████████████████████   98.22 %
-CSS           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Prisma        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TypeScript    6 hrs 28 mins   ███████████████████████░░   91.94 %
+JSON          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Bash          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+CSS           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JavaScript    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Prisma        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+SCSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TSConfig      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
