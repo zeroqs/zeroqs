@@ -26,20 +26,20 @@ I'm a passionate developer from Russia who loves building web applications and e
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2025 - To: 23 April 2025
+From: 17 April 2025 - To: 24 April 2025
 
-Total Time: 8 hrs 18 mins
+Total Time: 8 hrs 7 mins
 
-TypeScript   8 hrs 1 min     ████████████████████████░   96.68 %
-Prisma       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+TypeScript   7 hrs 46 mins   ████████████████████████░   95.88 %
+Prisma       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
