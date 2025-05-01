@@ -26,18 +26,14 @@ I'm a passionate developer from Russia who loves building web applications and e
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2025 - To: 28 April 2025
+From: 22 April 2025 - To: 29 April 2025
 
-Total Time: 6 hrs
+Total Time: 2 hrs 56 mins
 
-TypeScript   5 hrs 44 mins   ████████████████████████░   95.54 %
-CSS          12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Prisma       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript   2 hrs 42 mins   ███████████████████████░░   92.30 %
+CSS          12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
