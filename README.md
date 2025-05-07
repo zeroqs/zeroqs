@@ -26,20 +26,20 @@ I'm a passionate developer from Russia who loves building web applications and e
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2025 - To: 04 May 2025
+From: 28 April 2025 - To: 05 May 2025
 
-Total Time: 11 hrs 31 mins
+Total Time: 11 hrs 5 mins
 
-TypeScript   8 hrs 11 mins   ██████████████████░░░░░░░   71.02 %
-YAML         55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-Docker       47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Prisma       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-JavaScript   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Bash         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+TypeScript   7 hrs 46 mins   ██████████████████░░░░░░░   70.06 %
+YAML         55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Docker       47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+Prisma       40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+JavaScript   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Bash         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
