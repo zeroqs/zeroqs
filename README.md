@@ -26,11 +26,19 @@ I'm a passionate developer from Russia who loves building web applications and e
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2025 - To: 20 June 2025
+From: 14 June 2025 - To: 21 June 2025
 
-Total Time: 0 secs
+Total Time: 3 hrs 37 mins
 
-No activity tracked
+TypeScript                 1 hr 15 mins    █████████░░░░░░░░░░░░░░░░   34.60 %
+Docker                     1 hr 14 mins    █████████░░░░░░░░░░░░░░░░   34.39 %
+Nginx configuration file   23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+Bash                       15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Go                         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+YAML                       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+JSON                       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Other                      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JavaScript                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
